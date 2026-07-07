@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title></title>
+		<link>/</link>
+		<description>Recent content on </description>
+		<generator>Hugo</generator>
+		<language>it-it</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 31 Jul 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Sagra Madonna della Neve</title>
+				<link>/eventi/2026-07-31-sagra-madonna-neve/</link>
+				<pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>/eventi/2026-07-31-sagra-madonna-neve/</guid>
+				<description>Dal 31 Luglio al 5 Agosto divertimento per tutti!</description>
+			</item>
+			<item>
+				<title>don Cristian al Camposcuola a Santo Stefano</title>
+				<link>/avvisi/2026-07-19-santo-stefano/</link>
+				<pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>/avvisi/2026-07-19-santo-stefano/</guid>
+				<description>Dal 19 al 25 luglio don Cristian sarà al camposcuola a Santo Stefano di Cadore.</description>
+			</item>
+			<item>
+				<title>Serata finale del Grest</title>
+				<link>/eventi/2026-07-11-serata-finale-grest/</link>
+				<pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>/eventi/2026-07-11-serata-finale-grest/</guid>
+				<description>Serata finale del Grest sul sagrato di Valli.</description>
+			</item>
+			<item>
+				<title>Inizia la progettazione del nuovo sito</title>
+				<link>/avvisi/2026-07-04-nuovo-sito/</link>
+				<pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>/avvisi/2026-07-04-nuovo-sito/</guid>
+				<description>Obiettivo: creare un punto di riferimento per tutto ciò che riguarda le comunità di Conche e Valli.</description>
+			</item>
+			<item>
+				<title>Contatti</title>
+				<link>/contatti/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>/contatti/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Sala Millenote</title>
+				<link>/sala-millenote/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>/sala-millenote/</guid>
+				<description>&lt;p&gt;La parrocchia mette a disposizione, previa prenotazione e pagamento di un rimborso spese, una sala prove moderna, insonorizzata e dotata di impianto audio avanzato.&lt;/p&gt;&#xA;&lt;p&gt;La Sala Millenote è pensata per piccoli gruppi di musicisti e cantanti che necessitano di uno spazio accogliente per provare i propri brani, preparare momenti musicali e lavorare insieme con tranquillità.&lt;/p&gt;&#xA;&lt;p&gt;Per informazioni e prenotazioni è possibile contattare la parrocchia all&amp;rsquo;indirizzo &lt;a href=&#34;mailto:parneve@libero.it&#34;&gt;parneve@libero.it&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Scuola Santa Maria Goretti</title>
+				<link>/scuola/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>/scuola/</guid>
+				<description>&lt;p&gt;La parrocchia gestisce la Scuola Santa Maria Goretti con asilo nido integrato.&lt;/p&gt;&#xA;&lt;p&gt;E un servizio educativo nato per accompagnare i bambini e le famiglie in un ambiente familiare, curato e attento alla crescita di ciascuno. La scuola desidera offrire un luogo sereno, accogliente e radicato nella vita della comunità.&lt;/p&gt;&#xA;&lt;p&gt;Per informazioni e possibile contattare la scuola al numero indicato nei recapiti parrocchiali.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

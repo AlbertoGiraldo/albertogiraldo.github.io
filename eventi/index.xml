@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Appuntamenti della comunità on </title>
+		<link>/eventi/</link>
+		<description>Recent content in Appuntamenti della comunità on </description>
+		<generator>Hugo</generator>
+		<language>it-it</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 31 Jul 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="/eventi/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Sagra Madonna della Neve</title>
+				<link>/eventi/2026-07-31-sagra-madonna-neve/</link>
+				<pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>/eventi/2026-07-31-sagra-madonna-neve/</guid>
+				<description>Dal 31 Luglio al 5 Agosto divertimento per tutti!</description>
+			</item>
+			<item>
+				<title>Serata finale del Grest</title>
+				<link>/eventi/2026-07-11-serata-finale-grest/</link>
+				<pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>/eventi/2026-07-11-serata-finale-grest/</guid>
+				<description>Serata finale del Grest sul sagrato di Valli.</description>
+			</item>
+	</channel>
+</rss>
